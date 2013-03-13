@@ -152,9 +152,18 @@ aside a.button {
   width: 138px;
   padding-left: 64px;
   display: block;
-  background: transparent url(../images/download-button.png) 0 0 no-repeat;
   margin-bottom: 20px;
   font-size: 21px;
+}
+
+aside a.button.docs {
+  background: transparent url(../images/docs-button.png) 0 0 no-repeat;
+
+}
+
+aside a.button.download {
+  background: transparent url(../images/download-button.png) 0 0 no-repeat;
+
 }
 
 code, pre {
