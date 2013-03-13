@@ -1,3 +1,3 @@
-[submodule "Chiru-WebClient/webclient-sources"]
-	path = Chiru-WebClient/webclient-sources
+[submodule "Chiru-WebClient/client"]
+	path = Chiru-WebClient/client
 	url = git://github.com/Chiru/Chiru-WebClient.git
